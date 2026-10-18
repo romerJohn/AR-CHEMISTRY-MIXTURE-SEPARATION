@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="magnet" size="15.000000 11.250000" />
+    <ImageTarget name="sieving" size="15.000000 11.250000" />
+    <ImageTarget name="evaporation" size="15.000000 12.004279" />
+    <ImageTarget name="extraction" size="15.000000 12.004279" />
+    <ImageTarget name="crystallization" size="15.000000 12.004279" />
+    <ImageTarget name="flotation" size="15.000000 12.004279" />
+  </Tracking>
+</QCARConfig>
